@@ -1,3 +1,12 @@
+Basic requirements that very essential are:
+Operating System: Windows, Linux or any other operating system
+
+Front end tool: Visual Studio Code
+
+Programming language used: C
+
+gcc compiler with a good system.
+
 High Level Requirements
 
 ID Description Status- HR01: Main Menu Implemented
